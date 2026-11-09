@@ -1,0 +1,14 @@
+# Compiled Java files
+out/
+*.class
+
+# Local database
+chronotask.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
